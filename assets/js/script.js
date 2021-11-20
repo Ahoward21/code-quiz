@@ -204,17 +204,3 @@ function finished(){
 
 
 
-
-// questions and choices rendered to page ??
-
-
-// 
-
-
-
-// answer presented with next question
-
-// highscore is logged 
-
-// high score page
-
