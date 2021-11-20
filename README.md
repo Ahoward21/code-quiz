@@ -1,5 +1,5 @@
 # Code-Quiz
-Quiz designed to test your coding knowlege. built using local storage web APIs, timed intervals and event listeners. 
+Quiz designed to test your coding knowlege. Built using local storage web APIs, timed intervals and event listeners. 
 
 
 
